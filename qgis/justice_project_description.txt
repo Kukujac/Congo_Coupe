@@ -1,0 +1,13 @@
+This folder will contain the QGIS project (.qgz) once it's created and connected to the PostgreSQL database.
+
+Form field aliases in French:
+- name → Nom
+- type → Type
+- jurisdiction → Juridiction
+- address → Adresse
+- city → Ville
+- postal_code → Code postal
+- country → Pays
+- phone → Téléphone
+- email → Courriel
+- website → Site web
