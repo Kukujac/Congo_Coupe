@@ -1,13 +1,27 @@
 This folder will contain the QGIS project (.qgz) once it's created and connected to the PostgreSQL database.
 
 Form field aliases in French:
-- name → Nom
-- type → Type
-- jurisdiction → Juridiction
-- address → Adresse
+
+- head_of_household → Nom du chef de ménage
+- first_name → Prénom
+- street → Rue
 - city → Ville
 - postal_code → Code postal
-- country → Pays
 - phone → Téléphone
-- email → Courriel
-- website → Site web
+- dob → Date de naissance
+- family_size → Taille de la famille
+- adults → Nombre d''adultes
+- children → Nombre d''enfants
+- family_status → Situation familiale
+- victims → Nombre de victimes
+- displaced → Déplacé
+- housing_type → Type de logement
+- habitable → Habitable
+- structural_damage → Dommages structurels
+- material_damage → Dommages matériels
+- services_access → Accès aux services
+- received_aid → Aide reçue
+- needed_aid → Aide nécessaire
+- comments → Commentaires
+- photo → Photo
+- geom → Localisation
